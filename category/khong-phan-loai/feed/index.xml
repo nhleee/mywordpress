@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Chưa phân loại &#8211; My WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nhleee.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sat, 20 Aug 2022 02:32:32 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>CÔNG NGHỆ BLOCK CHAIN</title>
+		<link>https://nhleee.github.io/mywordpress/2022/08/20/cong-nghe-block-chain/</link>
+					<comments>https://nhleee.github.io/mywordpress/2022/08/20/cong-nghe-block-chain/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenHaiLy]]></dc:creator>
+		<pubDate>Sat, 20 Aug 2022 02:32:32 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://nhleee.github.io/mywordpress/?p=5</guid>
+
+					<description><![CDATA[Các ứng dụng thực tiễn của Blockchain trong cuộc sống 1. TRUYỀN THÔNG VÀ VIỄN THÔNG Triển khai các giải pháp&#160;Blockchain&#160;trên nền tảng đám mây sẽ giúp các nhà cung cấp dịch vụ truyền thông tối ưu hóa các quy trình hiện có trong khi tăng cường bảo mật mạng, rà soát lại toàn bộ [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p class="has-large-font-size"><strong>Các ứng dụng thực tiễn của Blockchain trong cuộc sống</strong></p>
+
+
+
+<figure class="wp-block-image size-full"><img width="1280" height="720" src="https://nhleee.github.io/mywordpress/wp-content/uploads/2022/08/2125125.jpg" alt="" class="wp-image-7"/></figure>
+
+
+
+<h4 class="has-medium-font-size"><strong>1</strong><strong>. TRUYỀN THÔNG VÀ VIỄN THÔNG</strong></h4>
+
+
+
+<p>Triển khai các giải pháp&nbsp;<strong>Blockchain</strong>&nbsp;trên nền tảng đám mây sẽ giúp các nhà cung cấp dịch vụ truyền thông tối ưu hóa các quy trình hiện có trong khi tăng cường bảo mật mạng, rà soát lại toàn bộ quy trình vận hành, các quy trình như chuyển vùng và quản lý danh tính trong mô hình kinh doanh của mình. Từ đó cải thiện và phát triển dịch vụ tốt hơn.</p>
+
+
+
+<p><strong>Một số ứng dụng của Blockchain trong lĩnh vực&nbsp;</strong><strong>truyền thông và viễn thông:</strong></p>
+
+
+
+<ul><li>Phòng chống gian lận trong chuyển vùng: các thỏa thuận chuyển vùng giữa các nhà khai thác sẽ trở nên minh bạch, các nút được chỉ định có thể đóng vai trò là trình xác nhận (người khai thác) để xác minh từng giao dịch được phát trên mạng.</li><li>Quá trình chuyển đổi&nbsp;<a href="https://vi.wikipedia.org/wiki/5G">5G</a>: các quy tắc và thỏa thuận giữa các mạng khác nhau sẽ có dạng hợp đồng thông minh, tự thực hiện có thể kết nối các thiết bị với nhà cung cấp dịch vụ gần nhất đồng thời đánh giá sự liên tục của kết nối và tính phí dịch vụ.</li><li>Kết nối&nbsp;<a href="https://vi.wikipedia.org/wiki/Internet_V%E1%BA%A1n_V%E1%BA%ADt">Internet vạn vậ</a>t: tạo ra một môi trường an toàn hơn để truyền dữ liệu bằng cách tạo các mạng lưới tự quản ngang hàng an toàn cao.</li></ul>
+
+
+
+<h4 class="has-medium-font-size"><strong>2</strong><strong>. SẢN XUẤT</strong></h4>
+
+
+
+<p>Trong quá trình sản xuất, chúng ta cần một sổ cái để theo dõi quá trình sản xuất, tồn kho, phân phối, chất lượng, thông tin giao dịch … Blockchain sẽ thay thế các thiết bị thông minh cấp quyền quản lý, nâng cao hiệu quả và tăng đáng kể năng suất của quản lý chuỗi cung ứng quá trình.</p>
+
+
+
+<p>Đối với người tiêu dùng, việc kiểm tra được tính xác thực của thông tin sản phẩm có thể ngăn chặn được hàng giả, hàng kém chất lượng trên thị trường.</p>
+
+
+
+<p><strong>Một số ứng dụng của Blockchain trong sản xuất:&nbsp;</strong></p>
+
+
+
+<ul><li>Theo dõi lịch trình sản xuất, số lượng hàng mua vào và bán ra.</li><li>Quản lý hàng tồn kho, kho bãi sản xuất.</li><li>Truy xuất nguồn gốc sản phẩm được sản xuất qua các khâu.</li><li>Theo dõi nguồn cung cấp nguyên liệu sản xuất trong công nghiệp.</li></ul>
+
+
+
+<h4 class="has-medium-font-size"><strong>3</strong><strong>. Y TẾ</strong></h4>
+
+
+
+<p>Trong thời đại công nghệ 4.0, các nước trên thế giới và Việt Nam đang đẩy mạnh triển khai số hóa thông tin trong quy trình quản lý dữ liệu trong đó có lĩnh vực y tế và chăm sóc sức khỏe. Blockchain được sử dụng trong quản lý tài sản và lưu trữ thông tin sức khỏe của bệnh nhân, quản lý hàng tồn kho, đơn đặt hàng, thanh toán thiết bị y tế và thuốc. Mặc dù có nhiều thiết bị thông minh có thể giám sát các dịch vụ này nhưng vẫn có nhiều hạn chế trong việc bảo mật thông tin cá nhân của bệnh nhân. Do đó, Blockchain là sự lựa chọn hàng đầu.</p>
+
+
+
+<p><strong>Một số ứng dụng của Blockchain trong lĩnh vực&nbsp;</strong><strong>y tế:</strong></p>
+
+
+
+<ul><li>Ứng dụng phát triển bao gồm theo dõi và quản lý bệnh lý (như thuốc thông minh, thiết bị đeo có thể đo các chỉ số về sức khỏe và đưa ra phản hồi) và tăng cường quản lý chất lượng.</li><li>Quản lý chuỗi cung ứng thuốc, thiết bị y tế: Theo dõi đầu vào, nguồn gốc, hạn sử dụng của các vật tư y tế.</li><li>Tăng cường tính minh bạch và tự động hóa trong các giao dịch khám chữa bệnh; xuất xứ xét nghiệm lâm sàng; quyền sở hữu dữ liệu sức khỏe của bệnh nhân.</li></ul>
+
+
+
+<h4 class="has-medium-font-size"><strong>4</strong><strong>. GIÁO DỤC</strong></h4>
+
+
+
+<p>Khi Blockchain được ứng dụng vào giáo dục, thông tin lưu trữ trên Blockchain không chỉ là dữ liệu bảng điểm mà còn là quá trình đào tạo, kinh nghiệm thực tế và kinh nghiệm tuyển dụng của mỗi người. Tránh tình trạng ứng viên gian lận trong quá trình xin học bổng, thăng tiến, v.v …; trình bày sai về trình độ học vấn, kinh nghiệm làm việc, kỷ luật, v.v.</p>
+
+
+
+<p>Không chỉ vậy, thông qua chức năng hợp đồng thông minh, Blockchain còn có thể tự động thực hiện các điều khoản của nội quy đào tạo, xử lý các trường hợp vi phạm nội quy, cải thiện các hạn chế trong quá trình giảng dạy khi cần thiết và học viên có thể đưa ra phản hồi.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nhleee.github.io/mywordpress/2022/08/20/cong-nghe-block-chain/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>https://nhleee.github.io/mywordpress/2022/08/20/chao-moi-nguoi/</link>
+					<comments>https://nhleee.github.io/mywordpress/2022/08/20/chao-moi-nguoi/#comments</comments>
+		
+		<dc:creator><![CDATA[NguyenHaiLy]]></dc:creator>
+		<pubDate>Sat, 20 Aug 2022 02:22:09 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://nhleee.github.io/mywordpress/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nhleee.github.io/mywordpress/2022/08/20/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
