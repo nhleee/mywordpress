@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Các phản hồi luận về: Breguet Reine de Naples	</title>
+	Các phản hồi luận về: BREGUET REINE DE NAPLES	</title>
 	<atom:link href="http://localhost/myproject/wordpress/san-pham/men/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nhleee.github.io/mywordpress/san-pham/men/</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 13 Oct 2022 04:46:48 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 20 Oct 2022 00:47:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 </channel>
 </rss>
